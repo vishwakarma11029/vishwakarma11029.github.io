@@ -6,8 +6,8 @@
 
 **Linux · OpenStack · AWS · VMware · Proxmox · Backup & Disaster Recovery**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishwakarma11029.github.io/vishwakarma.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/vishwakarma11029/vishwakarma.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishwakarma11029.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/vishwakarma11029)
 
 </div>
 
@@ -31,7 +31,7 @@ Infrastructure and Cloud Engineer with **11+ years of experience** across Linux 
 
 Explore my portfolio to learn more about my professional background and technical capabilities:
 
-**Live website:** https://vishwakarma11029.github.io/vishwakarma.github.io/
+**Live website:** https://vishwakarma11029.github.io
 
 ## About This Repository
 
@@ -42,7 +42,7 @@ This repository contains the files used to publish my portfolio through **GitHub
 
 ## Connect
 
-For professional opportunities and collaboration, please refer to the contact information on my [portfolio website](https://vishwakarma11029.github.io/vishwakarma.github.io/).
+For professional opportunities and collaboration, please refer to the contact information on my [portfolio website](https://vishwakarma11029.github.io.
 
 ---
 
